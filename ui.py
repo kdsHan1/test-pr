@@ -1,4 +1,5 @@
 # ch 8.1.3 ui.py
+# 주석1
 
 from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QVBoxLayout, 
           QMessageBox, QPlainTextEdit, QHBoxLayout,
